@@ -1,4 +1,4 @@
-# Need to learn Unitest (MockTesting) and CI/CD Pipeline
+# Need to create Unitest (MockTesting) and CI/CD Pipeline
 
 import unittest 
 from src.core.advanced_webscraper import WebScraper
